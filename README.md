@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saulmestanza" alt="saulmestanza" /></a> </p>
 
-- 🌱 I’m currently learning **ReactNative**
+- 🌱 I’m currently working with **Flutter** but i have a lot of experience as an **Android** and **IOS** developer!
 
 - 📫 How to reach me **saul.mm92@gmail.com**
 
